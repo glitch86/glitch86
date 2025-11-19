@@ -1,6 +1,9 @@
 
 # 👋 Hey, I’m Polok
 #### **Frontend Developer** | **React & Tailwind Specialist**
+<div align="center">
+  <img src="https://i.ibb.co.com/0jFmmpf1/Whats-App-Image-2025-08-15-at-11-08-44-PM-1.jpg](https://i.ibb.co.com/PZzZ5dBn/github-header-banner-1.png" alt="Saidee Hasan Banner" width="100%" />
+</div>
 
 # 💫 About Me:
 I’m a Frontend Developer who loves building clean, responsive, and user-friendly web applications.<br>I mostly work with React, Tailwind CSS, DaisyUI, and I use Express.js for backend APIs when needed.<br><br>🚀 What I Do<br><br>Craft fast, modern UI using React + Tailwind<br><br>Build smooth, mobile-friendly interfaces<br><br>Create reusable, scalable component systems<br><br>Develop lightweight backend services with Express<br><br>Integrate APIs and handle client–server workflows
