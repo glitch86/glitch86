@@ -1,5 +1,5 @@
 
-#👋 Hey, I’m Polok
+# 👋 Hey, I’m Polok
 #### **Frontend Developer** | **React & Tailwind Specialist**
 
 # 💫 About Me:
