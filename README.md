@@ -2,7 +2,7 @@
 # 👋 Hey, I’m Polok
 #### **Frontend Developer** | **React & Tailwind Specialist**
 <div align="center">
-  <img src="https://i.ibb.co.com/0jFmmpf1/Whats-App-Image-2025-08-15-at-11-08-44-PM-1.jpg](https://i.ibb.co.com/PZzZ5dBn/github-header-banner-1.png" alt="Saidee Hasan Banner" width="100%" />
+  <img src="https://i.ibb.co.com/PZzZ5dBn/github-header-banner-1.png" alt="polok ahmed Banner" width="100%" />
 </div>
 
 # 💫 About Me:
