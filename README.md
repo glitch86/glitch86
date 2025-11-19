@@ -6,7 +6,7 @@
 </div>
 
 # 💫 About Me:
-I’m a Frontend Developer who loves building clean, responsive, and user-friendly web applications.<br>I mostly work with React, Tailwind CSS, DaisyUI, and I use Express.js for backend APIs when needed.<br><br>🚀 What I Do<br><br>Craft fast, modern UI using React + Tailwind<br><br>Build smooth, mobile-friendly interfaces<br><br>Create reusable, scalable component systems<br><br>Develop lightweight backend services with Express<br><br>Integrate APIs and handle client–server workflows
+I’m a Frontend Developer, building clean, responsive, and user-friendly web applications.<br>I mostly work with React, Tailwind CSS, DaisyUI, and Express.js for backend APIs when required.<br><br>🚀 What I Do<br><br>Craft fast, modern UI using React + Tailwind<br><br>Build smooth, mobile-friendly interfaces<br><br>Create reusable, scalable component systems<br><br>Develop lightweight backend services with Express<br><br>Integrate APIs and handle client–server workflows
 
 
 ## 🌐 Socials:
