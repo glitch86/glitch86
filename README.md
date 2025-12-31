@@ -1,5 +1,5 @@
 
-# 👋 Hey, I’m Polok
+# 👋 Hey, I’m Polok Ahmed
 #### **Frontend Developer** | **React & Tailwind Specialist**
 <div align="center">
   <img src="https://i.ibb.co.com/PZzZ5dBn/github-header-banner-1.png" alt="polok ahmed Banner" width="100%" />
